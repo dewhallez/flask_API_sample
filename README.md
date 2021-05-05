@@ -1,4 +1,4 @@
-his project is ongoing
+This project is ongoing
 
 Testing API with Flask and Creating Database entries with SQL
 
